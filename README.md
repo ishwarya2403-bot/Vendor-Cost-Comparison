@@ -1,4 +1,4 @@
-# Vendor-Cost-Comparison
+# Vendor-Cost-Comparison-For-Procurement-Decision
 Excel-based procurement analytics dashboard to compare supplier cost, delivery performance, quantity, and defect rates for data-driven vendor decisions.
 
 # 📊 Vendor Cost Comparison for Procurement Decisions
